@@ -47,17 +47,20 @@ AI_Virtual_Ornament_TryOn/
 
 │   │
 
-
 │   └── necklace
 
-
 │       ├── necklace1.png
+
 │       ├── necklace2.png
+
 │       └── ...
+
 │
 └── models
     ├── shape_predictor_68_face_landmarks.dat
+    
     ├── deploy.prototxt
+    
     └── res10_300x300_ssd_iter_140000.caffemodel
 
 # Technologies Used

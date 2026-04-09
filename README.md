@@ -21,16 +21,36 @@ The system provides an interactive jewelry preview experience with dynamic align
 ## Project Structure
 AI_Virtual_Ornament_TryOn/
 │
+
+
 ├── main.py
+
+
 ├── README.md
-│
+
+
+
 ├── ornaments
+
+
 │   ├── earring
+
+
 │   │   ├── earring1.png
+
+
 │   │   ├── earring2.png
+
+
 │   │   └── ...
+
+
 │   │
+
+
 │   └── necklace
+
+
 │       ├── necklace1.png
 │       ├── necklace2.png
 │       └── ...

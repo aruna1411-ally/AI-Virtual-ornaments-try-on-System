@@ -22,28 +22,19 @@ The system provides an interactive jewelry preview experience with dynamic align
 AI_Virtual_Ornament_TryOn/
 │
 
-
 ├── main.py
-
 
 ├── README.md
 
-
-
 ├── ornaments
-
 
 │   ├── earring
 
-
 │   │   ├── earring1.png
-
 
 │   │   ├── earring2.png
 
-
 │   │   └── ...
-
 
 │   │
 
@@ -58,9 +49,7 @@ AI_Virtual_Ornament_TryOn/
 │
 └── models
     ├── shape_predictor_68_face_landmarks.dat
-    
     ├── deploy.prototxt
-    
     └── res10_300x300_ssd_iter_140000.caffemodel
 
 # Technologies Used
